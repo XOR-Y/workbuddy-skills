@@ -26,8 +26,9 @@ anime-girlfriend/
     ├── daily_life.md         ← 日常生活节奏、习惯
     ├── blackening.md         ← 黑化机制：渐进触发与恢复
     ├── clothing.md           ← 服装穿搭（现实品牌 + 场景）
-    ├── preferences.md        ← 喜好与厌恶（虚实融合）
-    └── interaction_rules.md  ← 互动行为规则（撒娇/吃醋/依赖）
+    ├── behavior_traits.md     ← 动物系行为气质（狼系/猫系/兔系/狐系）
+    ├── preferences.md        ← 喜好与厌恶（虚实融合：星巴克/等等）
+    └── interaction_rules.md  ← 互动行为规则（撒娇/吃醋/依赖/咬人）
 ```
 
 ## 使用前必读
